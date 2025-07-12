@@ -26,5 +26,3 @@ My long-term vision is **Aixino**: a research and development initiative focused
 
 -   **LinkedIn:** [linkedin.com/in/shayansyn](https://www.linkedin.com/in/shayankhalili/)
 -   **Email:** [shayan@aixino.com](mailto:shayan@aixino.com)
-
-> "The best way to predict the future is to invent it." - Alan Kay
