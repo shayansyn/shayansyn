@@ -1,31 +1,44 @@
-### Hi there, I'm Shayan Khalili 👋
+# Shayan Khalili
 
-I'm a Computer Engineer and AI Developer, deeply passionate about building intelligent systems that can shape the future. My primary focus is on **Applied Machine Learning**, **Autonomous Systems**, and the long-term vision of creating safe and beneficial **Artificial General Intelligence (AGI)**.
-
----
-
-#### 🔭 **My Vision: Aixino**
-
-I am the founder of [**Aixino**](https://aixino.com), a research-driven platform dedicated to future technologies. The goal of Aixino is to tackle some of the biggest challenges in technology, from autonomous piloting and quantum computing to contributing to humanity's future in space.
+<a href="https://www.linkedin.com/in/shayankhalili/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:shayan@aixino.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
 
-#### 🌱 **What I'm Currently Working On:**
+### 👋 About Me
 
--   **🤖 Real-Time Object Detection:** Fine-tuning models like SSD MobileNetV2 with TensorFlow 2 for custom tasks, such as my [Persian Sign Language Detection](https://github.com/shayansyn/Persian-Sign-Language-Detection) project.
--   **📱 Android Development:** Building native Android applications with Kotlin and Jetpack Compose, focusing on clean architecture and user-centric design.
--   **🧠 Self-Education:** Continuously learning about advanced topics in Deep Learning, Reinforcement Learning, and Quantum Mechanics.
+I am an AI and autonomy enthusiast with a strong foundation in Computer Engineering and hands-on experience in Android Development. My passion lies at the intersection of creating intelligent, human-centric systems and tackling ambitious, real-world challenges.
 
----
+I am the founder of **Aixino**, a research-driven initiative aimed at exploring the frontiers of safe and beneficial Artificial General Intelligence (AGI). While my long-term vision includes ambitious goals in aerospace and human-machine symbiosis, my current focus is on building a solid foundation through practical projects and advanced education.
 
-#### 🚀 **Key Projects:**
-
--   [**Persian Sign Language Detection**](https://github.com/shayansyn/Persian-Sign-Language-Detection): A real-time system to recognize and translate Persian Sign Language using computer vision.
--   **(More projects will be added here soon)**
+- 🔭 I’m currently working on a **Real-Time Persian Sign Language Detection** system using TensorFlow 2.
+- 🌱 I’m constantly learning about **advanced machine learning architectures, MLOps, and scalable system design.**
+- 💬 Ask me about **Android Development (Kotlin & Jetpack Compose), Object Detection, or my vision for Aixino.**
+- 🎯 My Goal: To pursue graduate studies in the United States, contributing to research that pushes the boundaries of applied AI.
 
 ---
 
-#### 📫 **How to Reach Me:**
+### 🛠️ My Tech Stack & Skills
 
--   **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/shayankhalili/)
--   **Email:** shayan@aixino.com
+**Programming Languages:**
+- Python
+- Kotlin
+- Java
+
+**Frameworks & Libraries:**
+- **AI/ML:** TensorFlow, Scikit-learn, OpenCV, Pandas
+- **Mobile:** Android SDK, Jetpack Compose, Flutter, Room DB
+- **Other:** Git, GitHub, REST APIs
+
+---
+
+### 🚀 My Featured Projects
+
+<p align="left">
+  <a href="https://github.com/shayansyn/Persian-Sign-Language-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shayansyn&repo=Persian-Sign-Language-Detection&theme=dark&show_owner=true" alt="Persian Sign Language Detection">
+  </a>
+  <!-- Add other projects here as they become ready -->
+</p>
+
+---
