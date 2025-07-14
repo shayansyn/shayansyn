@@ -1,28 +1,31 @@
-# Hi there, I'm Shayan 👋
+# Hi there, I'm Shayan Khalili 👋
 
-A developer and AI enthusiast passionate about building intelligent systems that solve real-world problems. My goal is to explore the synergy between human intuition and machine intelligence, contributing to a future of safe and beneficial advanced AI.
-
-My long-term vision is **Aixino**: a research and development initiative focused on the frontiers of technology—from autonomous systems to applied AI and beyond. I'm deeply interested in building ecosystems where technology and creativity collide to shape what's next.
+I'm a developer and AI enthusiast passionate about building intelligent systems that bridge the gap between human potential and technology. My focus is on developing practical, real-world applications in computer vision and time-series analysis, with a long-term vision for creating safe and beneficial advanced AI.
 
 ---
 
-### 🚀 My Current Focus & Projects
+### 🔧 My Core Competencies & Tech Stack
 
--   **🤖 AI & Machine Learning:** I actively develop projects in computer vision and NLP. My latest project is a **[Real-Time Persian Sign Language Detection system](https://github.com/shayansyn/Persian-Sign-Language-Detection)** built with TensorFlow 2.
--   **📱 Mobile Development:** I am building **Lernigo**, an application for personalized language learning. The project is currently under active development with a roadmap that includes future AI-powered features.
--   **Continuous Learning:** I'm always exploring new concepts in AI ethics, advanced algorithms, and system design to sharpen my skills.
+-   **Languages:** Python, Kotlin, Java
+-   **AI & Machine Learning:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy
+-   **Mobile Development:** Android Native (Jetpack Compose)
+-   **Tools & Platforms:** Git, GitHub, Jupyter, Roboflow
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### Featured Projects
 
--   **Languages:** Python, Kotlin, Java, SQL
--   **Frameworks & Libraries:** TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Jetpack Compose, Android SDK
--   **Tools & Platforms:** Git & GitHub, Android Studio, Jupyter Notebook, Roboflow
+Here are a few projects I've been working on. Feel free to explore the repositories for more details.
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🛰️ **[Satellite Building Segmentation](https://github.com/shayansyn/Satellite-Building-Segmentation)** | An implementation of the U-Net model to identify and segment building footprints from satellite imagery. | `TensorFlow`, `Keras`, `NumPy`, `Matplotlib` |
+| 💹 **[Stock Market Analysis & LSTM Prediction](https://github.com/shayansyn/Stock-Market-LSTM-Analysis)** | A comprehensive analysis of tech stocks, including a predictive LSTM model to forecast future prices. | `TensorFlow`, `LSTM`, `Pandas`, `yfinance` |
+| 🗣️ **[Persian Sign Language Detection](https://github.com/shayansyn/Persian-Sign-Language-Detection)** | A real-time object detection model fine-tuned to recognize custom Persian Sign Language gestures. | `TensorFlow 2 API`, `OpenCV`, `Roboflow` |
 
 ---
 
 ### 📫 How to Reach Me
 
--   **LinkedIn:** [linkedin.com/in/shayansyn](https://www.linkedin.com/in/shayankhalili/)
+-   **LinkedIn:** [linkedin.com/in/shayankhalili](https://www.linkedin.com/in/shayankhalili/)
 -   **Email:** [shayan@aixino.com](mailto:shayan@aixino.com)
